@@ -51,6 +51,7 @@ Below are the detailed guides for each phase and component of the OctoAcme proje
 | [Release & Deployment Guide](octoacme-release-and-deployment.md) | Standardize how OctoAcme releases features to production safely and observably |
 | [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Capture learnings and convert them into actionable improvements |
 | [Roles & Personas](octoacme-roles-and-personas.md) | Define typical roles and responsibilities used in OctoAcme projects |
+| [Persona Engagement Checklist](octoacme-persona-engagement-checklist.md) | Quickly confirm which personas should be engaged across planning, implementation, release, post-release, and incidents |
 
 ## How to Use These Docs
 
