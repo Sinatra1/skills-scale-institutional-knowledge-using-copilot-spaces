@@ -15,6 +15,14 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Rollback / mitigation plan documented
 - Smoke tests prepared
 
+### Release Persona Sign-offs
+- **Release Engineer:** Owns release readiness, pipeline validation, and rollback plan confirmation.
+- **Security Reviewer:** Confirms security scan results and approves risk acceptance for production rollout.
+- **Technical Lead:** Validates that outstanding technical risks are acceptable or mitigated.
+- **Stakeholder Liaison:** Ensures release communications and support notifications are prepared.
+
+See the [Persona Engagement Checklist](octoacme-persona-engagement-checklist.md) for the full pre-release checklist template.
+
 ## Deployment Checklist
 - [ ] Deployment window scheduled (if needed)
 - [ ] Backup or snapshot (if applicable)

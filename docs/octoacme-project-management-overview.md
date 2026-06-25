@@ -20,6 +20,8 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+Extended operational personas (Technical Lead, Release Engineer, UX Researcher, Data Analyst, Security Reviewer, Stakeholder Liaison) are defined in [Roles & Personas](octoacme-roles-and-personas.md), including guidance on when to involve each during planning, execution, release, and incidents.
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
