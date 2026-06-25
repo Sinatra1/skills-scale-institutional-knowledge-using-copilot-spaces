@@ -16,6 +16,14 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
 
+### Extended Persona Involvement During Planning
+- **Technical Lead:** Owns architecture decisions and feasibility review; involved from the start of planning for major or high-risk initiatives.
+- **UX Researcher:** Involved when the initiative introduces new user journeys; informs acceptance criteria with usability evidence.
+- **Data Analyst:** Defines measurement plans and instrumentation requirements; engaged when success metrics are established.
+- **Security Reviewer:** Engaged for threat modeling when the initiative involves sensitive data, auth, or external integrations.
+
+See the [Persona Engagement Checklist](octoacme-persona-engagement-checklist.md) for a planning-phase template.
+
 ## Backlog Item Template
 - Title:
 - Description:
